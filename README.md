@@ -4,4 +4,4 @@
 
 ## You can see the live of the project aby following this url.
 
-[https://ousmanatraore.github.io/mauritanie-paysage-tribute-page/](url)
+[https://ousmanatraore.github.io/mauritanie-paysage-tribute-page/]
